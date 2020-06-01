@@ -4,7 +4,7 @@
 \alias{install_if_missing}
 \title{install  packages if missing}
 \usage{
-install_if_missing(to_be_installed, ...)
+install_if_missing(to_be_installed, lib = NULL, ...)
 }
 \arguments{
 \item{to_be_installed}{a character vector containing required packages names}
